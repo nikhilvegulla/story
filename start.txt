@@ -1,8 +1,0 @@
-first create a file
-2. git init
-
-//for commit 
-3. git add file.ext
-
-//for commiting a file 
-4. git commit -m "msg"
